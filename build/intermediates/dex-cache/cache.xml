@@ -30,6 +30,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/tanmay/AndroidStudioProjects/Diary/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/tanmay/AndroidStudioProjects/Diary/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_d54696f24f658944f8ebe30b727de2cc4b14d17b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/tanmay/AndroidStudioProjects/Diary/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -102,6 +111,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/tanmay/AndroidStudioProjects/Diary/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/home/tanmay/AndroidStudioProjects/Diary/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.4.0_8ddb2dd466032be52a797a34510ae3c4669aeff2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/tanmay/AndroidStudioProjects/Diary/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -111,11 +129,20 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/tanmay/AndroidStudioProjects/Diary/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/home/tanmay/AndroidStudioProjects/Diary/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_2e159f75d02b545797765294281d19c4808a2af9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/tanmay/AndroidStudioProjects/Diary/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="9d62971f7e5ded979539f87713f8c0b8dc55acf8">
+        sha1="0901050379103283a8a899540c95d9016a7760d5">
         <dex dex="/home/tanmay/AndroidStudioProjects/Diary/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0aa22cd3e6454760c175e8c2da683eea2e1cb6d8/classes.dex" />
     </item>
     <item
